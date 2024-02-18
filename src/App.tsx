@@ -82,8 +82,8 @@ const App = () => {
     <div className="App-container">
       <div className="App">
         <div className="logo-section">
-          <img src="https://i.imgur.com/EerK7MS.png" alt="Logo 1" className="logo logo-big" />
-          <img src="https://i.imgur.com/eBJAx0s.png" alt="Logo 2" className="logo logo-big" />
+          <img src="/EerK7MS.png" alt="Logo 1" className="logo logo-big" />
+          <img src="/eBJAx0s.png" alt="Logo 2" className="logo logo-big" />
         </div>
         {!account ? (
           <div className="connect-button">
